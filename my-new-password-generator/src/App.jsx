@@ -46,7 +46,7 @@ function App() {
       <div className="flex flex-wrap justify-center bg-white dark:bg-gray-800 shadow-xl w-full h-screen">
         <div className="rounded-lg w-lg p-10 bg-blue-500 flex flex-wrap flex-col gap-3 justfy-center m-auto">
           <h1
-            className="font-mono text-center text-4xl bg-white rounded-lg "
+            className="font-mono text-center text-4xl bg-yellow-500 rounded-lg "
           >
             Password Generator
           </h1>
